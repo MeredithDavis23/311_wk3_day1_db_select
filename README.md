@@ -25,7 +25,7 @@ You should have created a Google Cloud account, installed MySQL Workbench and ma
 
 We are going to run a couple SQL queries and put the answers in the "Query Responses" section of this README. The query instructions are intentionally written in plain english. It's up to you to translate that in a SELECT statement.
 
-1. Select all fields from users where the city equals Chicago
+1. Select all fields from users where the city equals Chicago 
 
 2. Select the "state" field for users with a first name of "Glory"
 
@@ -36,16 +36,21 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 
 1.
   * How many rows were returned:
+		7
   * First name of the first user:
+		Mitsue
 
 2.
   * How many rows were returned:
+		2
   * What states do they live in:
+		MD, TX
 
 3.
   * How many rows were returned:
+		6
   * What's the last email on the list:
-
+		nichelle_meteer@meteer.com
 
   ## Summary
 
